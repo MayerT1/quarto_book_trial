@@ -4,27 +4,20 @@ project:
 book:
   title: "SERVIR's Applied Deep Learning Handbook"
   author:
-    - name: Ate Poortinga
-      affiliations:
-        - id: sig
-          name: Spatial Informatics Group, LLC
-    - name: Biplov Bhandari
-      affiliations:
-        - id: woolpert
-          name: Woolpert Digital Innovations
-    - name: Lilly Thomas
-      affiliations:
-        - name: Development Seed
-    - name: Tim Mayer
+      - name: Tim Mayer
       affiliations:
         - id: nasa-servir
           name: NASA - SERVIR
         - id: UofA-huntsville
           name: The University of Alabama in Huntsville
+    - name: Biplov Bhandari
+      affiliations:
+        - id: woolpert
+          name: Woolpert Digital Innovations
 
-  date: "11/05/2024"
+  date: "11/15/2024"
   cover-image: images/Book_Cover.png
-  repo-url: https://github.com/tylere/servir-geoai-book/
+  repo-url: https://mayert1.github.io/quarto_book_trial/
   repo-actions: [source, edit, issue]
   downloads: [pdf]
   chapters:
