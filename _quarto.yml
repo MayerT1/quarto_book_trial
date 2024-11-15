@@ -4,9 +4,9 @@ project:
 book:
   title: "SERVIR's Applied Deep Learning Handbook"
   author:
-      - name: Tim Mayer
+    - name: Tim Mayer
       affiliations:
-        - id: nasa-servir
+        - id: asa-servir
           name: NASA - SERVIR
         - id: UofA-huntsville
           name: The University of Alabama in Huntsville
@@ -14,6 +14,15 @@ book:
       affiliations:
         - id: woolpert
           name: Woolpert Digital Innovations
+    # - name: Lilly Thomas
+    #   affiliations:
+    #     - name: Development Seed
+    # - name: Tim Mayer
+    #   affiliations:
+    #     - id: nasa-servir
+    #       name: NASA - SERVIR
+    #     - id: UofA-huntsville
+    #       name: The University of Alabama in Huntsville
 
   date: "11/15/2024"
   cover-image: images/Book_Cover.png
